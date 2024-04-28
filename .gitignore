@@ -161,6 +161,7 @@ cython_debug/
 
 # Outputs
 *.json
-
 **/iidx-gst-all/
 **/iidx-gst-mp3/
+*.mp3
+*.wav
